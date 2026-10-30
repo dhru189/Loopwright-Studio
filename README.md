@@ -2,9 +2,9 @@
 
 AI agent studio built with Next.js, Tailwind CSS, and shadcn/ui.
 
-## Live Demo
+## Live Demo / Publish Link
 
-**https://w1j6z9gyfb21-d.space-z.ai/**
+**https://w1j6z9gyfb21-d.space-z.ai**
 
 ## Features
 
